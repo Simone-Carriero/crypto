@@ -1,0 +1,7 @@
+.second-section__card-container {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.main-exchange-container__table-grid {
+  grid-template-columns: repeat(2, 1fr);
+}
